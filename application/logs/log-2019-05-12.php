@@ -1,0 +1,39 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2019-05-12 07:31:47 --> Severity: Warning --> Use of undefined constant DESC - assumed 'DESC' (this will throw an Error in a future version of PHP) /home/dz95cocnc9py/public_html/livetest/application/modules/welcome/views/user_home.php 134
+ERROR - 2019-05-12 07:31:47 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/dz95cocnc9py/public_html/livetest/application/models/App.php 25
+ERROR - 2019-05-12 07:31:57 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:32:02 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:32:07 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:32:12 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:32:17 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:32:22 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:32:27 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:32:32 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:32:37 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:32:42 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:32:47 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:32:52 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:32:57 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:33:02 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:33:07 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:33:12 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:33:17 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:33:22 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:33:27 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:33:32 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:33:37 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:33:42 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:33:47 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:33:52 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:33:57 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:34:02 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:34:07 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:34:12 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:34:17 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:34:22 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:34:27 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:34:32 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:34:37 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:34:42 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
+ERROR - 2019-05-12 07:34:46 --> Severity: Warning --> date_default_timezone_set() expects exactly 1 parameter, 0 given /home/dz95cocnc9py/public_html/livetest/application/modules/chats/controllers/Chats.php 46
